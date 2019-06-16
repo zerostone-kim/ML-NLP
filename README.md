@@ -1,2 +1,2 @@
-# ML-NLP
-머신러닝, 인공신경망
+# ML-NLP (Machine Learning, Natural Language Processing)
+머신러닝, 자연어 
